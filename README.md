@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C++ coding challenges or DSA practice sessions.
 - 📫 How to reach me: Email: aamratanshsinghgahlot@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Error ;)
+- ⚡ Fun fact: Error ;) 
 
 
 <!---
