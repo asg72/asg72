@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aamratansh
+- 👋 Hi, I’m Aamratansh 
 - 👀 I’m interested in cloud computing and AI, as well as Data Structures and Algorithms.
 - 🌱 I’m currently deepening my understanding of algorithms and building small Web Development projects .
 - 💞️ I’m looking to collaborate on C++ coding challenges or DSA practice sessions.
